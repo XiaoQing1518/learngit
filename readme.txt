@@ -4,3 +4,4 @@ Git has a mutable idex called stage.
 Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+Fast forward mode is prohibited.
